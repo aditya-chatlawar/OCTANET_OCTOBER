@@ -7,7 +7,7 @@ body, h1, h2, p {
     position: absolute; 
     height: 120%; 
     width: 100%; 
-    background-image: url( "wallhaven-4d15l4.jpg"); 
+    background-image: url( "images/wallhaven-4d15l4.jpg"); 
     background-size: cover; 
     background-position: center;
     filter: blur(4px); 
